@@ -212,7 +212,7 @@ const Resume = (props) => {
               IndiaBonds
             </a>
           }
-          subHeading={"IndiaBonds"}
+          subHeading={"Assistant Manager (IT & Software)"}
           fromDate={"2022"}
           toDate={"2023"}
         />

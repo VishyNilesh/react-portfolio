@@ -50,7 +50,7 @@
   }
   .header-parent {
     width: 100%;
-    padding: 0 40px;
+    padding: 0 10px;
     position: relative;
   }
   .header-options {
@@ -82,5 +82,8 @@
   .show-hamburger-options {
     left: 0;
     opacity: 1;
+  }
+  .header-logo{
+    font-size: 38px;
   }
 }

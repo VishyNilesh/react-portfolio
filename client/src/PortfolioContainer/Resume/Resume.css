@@ -232,4 +232,27 @@
   .selected-bullet {
     width: 100%;
   }
+
+}
+
+@media only screen and  (max-width:641px) {
+  .heading-bullet{
+    visibility: hidden;
+  }
+  .skill-parent span{
+    font-size: 13px;
+  }
+  .resume-main-heading span {
+    font-size: 13px;
+}
+.resume-sub-heading{
+  font-size: 10px;
+}
+.heading-date{
+  padding: 4px 12px;
+    font-size: 12px;
+}
+.resume-description-text {
+    font-size: 10px;
+}
 }
