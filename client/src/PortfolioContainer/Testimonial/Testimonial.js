@@ -9,6 +9,7 @@ import Animations from "../../utilities/Animations";
 import "./Testimonial.css";
 import lady from "../../../src/img/Testimonial/lady.jpeg";
 import Anand from "../../../src/img/Testimonial/Anand.jpeg";
+import Vivek from "../../../src/img/Testimonial/Vivek.jpeg";
 import man from "../../../src/img/Testimonial/man.jpeg";
 import shape from "../../../src/img/Testimonial/shape-bg.png";
 
@@ -134,9 +135,9 @@ export default function Testimonial(props) {
                 </ul>
               </div>
               <div className="client-info">
-                <img src={Anand} alt="testimonial" />
-                <h5>Anand @IndiaBonds</h5>
-                <p>VP </p>
+                <img src={Vivek} alt="testimonial" />
+                <h5>Vivek Vishwakarma @Deloitte</h5>
+                <p>Lead Software Engineer </p>
               </div>
             </div>
 
